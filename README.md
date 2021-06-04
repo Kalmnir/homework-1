@@ -5,8 +5,9 @@ Much of the code was poorly structured with non semantic html tags used to descr
 Certain functions of the site also didn't work properly, and image elements were missing alt tags required for accesibility.
 The CSS sheet was also poorly structured and contained several reduntant tags that needed to be consolidated.
 
+## Fixes and changes made to html and css
+
 ```
-Fixes done to html and css:
 -fixed title of site
 -replaced all instances of div and span tags with proper semantic tags
 -fixed broken search engine optimization link
