@@ -17,15 +17,15 @@ The CSS sheet was also poorly structured and contained several reduntant tags th
 -added notes to the html and css sheet to make code more readable
 ```
 
-screenshot of deployed site:
+## Screenshot of deployed site
 
 ![website screenshot](https://github.com/Kalmnir/homework-1/blob/master/screenshot/Screenshot_2021-06-02_Horiseon.png)
 
-link to github site:  
+## Link to github site:  
 
 https://kalmnir.github.io/homework-1/
 
-list of articles and resources used:
+## List of articles and resources used:
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
