@@ -14,7 +14,7 @@ Finally, I went back through and finished switching out non semantic tags and ad
 
 screenshot of deployed site:
 
-![website screenshot](https://github.com/Kalmnir/homework-1/blob/master/screenshot/Screenshot_2021-06-02-2_Horiseon.png)
+![website screenshot](https://github.com/Kalmnir/homework-1/blob/master/screenshot/Screenshot_2021-06-02_Horiseon.png)
 
 link to github site:  
 
