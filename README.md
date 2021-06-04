@@ -7,19 +7,12 @@ The CSS sheet was also poorly structured and contained several reduntant tags th
 
 ```
 Fixes done to html and css:
-
 -fixed title of site
-
 -replaced all instances of div and span tags with proper semantic tags
-
 -fixed broken search engine optimization link
-
 -added descriptive alt tags to images used on the site
-
 -re-named a few classes used to be more semantically correct
-
 -consolidated a few css tags and re-structured the page slightly to flow better and remove redundancy
-
 -added notes to the html and css sheet to make code more readable
 ```
 
