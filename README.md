@@ -5,7 +5,7 @@ Much of the code was poorly structured with non semantic html tags used to descr
 Certain functions of the site also didn't work properly, and image elements were missing alt tags required for accesibility.
 The CSS sheet was also poorly structured and contained several reduntant tags that needed to be consolidated.
 
-
+```
 Fixes done to html and css:
 
 -fixed title of site
@@ -21,7 +21,7 @@ Fixes done to html and css:
 -consolidated a few css tags and re-structured the page slightly to flow better and remove redundancy
 
 -added notes to the html and css sheet to make code more readable
-
+```
 
 screenshot of deployed site:
 
