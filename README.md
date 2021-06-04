@@ -6,11 +6,22 @@ Certain functions of the site also didn't work properly, and image elements were
 The CSS sheet was also poorly structured and contained several reduntant tags that needed to be consolidated.
 
 
-The first thing I did in fixing the page and bringing it up to standard was fixing the broken link element and adding in the alt text that was missing on the images, along with fixing the title for the website.
-After doing that I started the process of trying to replace all of the div tags with tags that were semantically correct.
-Several of these I was able to do just using the information on the html page and refering to the class tags already in use, though for some cases I used external resources to try and figure out what proper semantics should be used.
-Once I had most of them figured out, I started working on re-structuring th css page to remove reduntantcies and re-name certain classes to unify some lines of styling, this resulted in a much shorter and more concise css.
-Finally, I went back through and finished switching out non semantic tags and added in notes for the html page and css page.
+Fixes done to html and css:
+
+-fixed title of site
+
+-replaced all instances of div and span tags with proper semantic tags
+
+-fixed broken search engine optimization link
+
+-added descriptive alt tags to images used on the site
+
+-re-named a few classes used to be more semantically correct
+
+-consolidated a few css tags and re-structured the page slightly to flow better and remove redundancy
+
+-added notes to the html and css sheet to make code more readable
+
 
 screenshot of deployed site:
 
